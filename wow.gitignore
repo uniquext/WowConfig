@@ -1,0 +1,11 @@
+.Utils/
+Cache/
+Errors/
+Fonts/
+Logs/
+Utils/
+.curseclient
+.flavor.info
+BlizzardError.exe
+d3d12.dll
+dxilconv7.dll
