@@ -1,0 +1,42 @@
+VER 3 010000000000000B " " "134400"
+#showtooltips
+/cast [target=mouseover,help,exists]  始源之潮;始源之潮
+END
+VER 3 0100000000000009 " " "134400"
+#showtooltips
+/cast [@cursor] 灵魂链接图腾
+END
+VER 3 010000000000000A " " "134400"
+#showtooltips
+/cast [target=mouseover,help,exists]  治疗链;治疗链
+END
+VER 3 0100000000000003 " " "134400"
+#showtooltips
+/cast [target=mouseover,help,exists]  净化灵魂;净化灵魂
+END
+VER 3 0100000000000004 " " "134400"
+#showtooltips
+/cast [@cursor] 涌动图腾
+END
+VER 3 0100000000000005 " " "134400"
+#showtooltips
+/cast [target=mouseover,help,exists] 大地之盾;大地之盾
+END
+VER 3 0100000000000006 " " "134400"
+#showtooltips
+/cast [target=mouseover,help,exists]  激流;激流
+END
+VER 3 0100000000000007 " " "134400"
+#showtooltips
+/cast [target=mouseover,help,exists]  治疗之涌;治疗之涌
+END
+VER 3 0100000000000008 " " "134400"
+#showtooltips
+/cast [target=mouseover,help,exists]  治疗波; 治疗波
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]午后的[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

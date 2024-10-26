@@ -1,0 +1,27 @@
+
+GTFOData = {
+["IgnoreSpellList"] = {
+},
+["Active"] = true,
+["TestMode"] = false,
+["TrivialDamagePercent"] = 2,
+["EnableVibration"] = false,
+["Sounds"] = {
+true,
+true,
+true,
+true,
+},
+["DataCode"] = "4",
+["SoundChannel"] = "Master",
+["Volume"] = 3,
+["IgnoreOptions"] = {
+["EyeOfCorruption2"] = true,
+},
+["SoundOverrides"] = {
+"",
+"",
+"",
+"",
+},
+}

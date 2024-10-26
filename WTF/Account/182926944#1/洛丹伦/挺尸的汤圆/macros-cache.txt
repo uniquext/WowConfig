@@ -1,0 +1,44 @@
+VER 3 0100000000000006 " " "134400"
+#showtooltips 憎恶附肢
+/castsequence reset=10 憎恶附肢,冷酷严冬,符文武器增效,冰霜之柱
+END
+VER 3 0100000000000007 " " "134400"
+#showtooltip 冰霜打击
+/targetenemy
+/cast 冰霜打击
+/cast [nodead，harm] 冰霜打击
+END
+VER 3 0100000000000008 " " "134400"
+#showtooltip
+/cleartarget
+/targetlasttarget
+/targetenemy
+/cast 冰霜打击
+/targetlasttarget
+/cleartarget
+/targetlasttarget
+END
+VER 3 0100000000000004 " " "134400"
+#showtooltips 死神印记
+/castsequence reset=10 死神印记,冰霜之柱
+END
+VER 3 0100000000000005 "  " "134400"
+#showtooltips 寒冰联结
+/castsequence reset=10 寒冰联结,死神印记
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1EM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]挺尸的[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000003 "冰柱爆发宏" "134400"
+#showtooltips 冰霜之柱
+/cast 符文武器增效
+/cast 冰霜之柱
+/cast 亡者复生
+/cast 死神印记
+/cast 寒冰联结
+/use 13
+/use 14
+END

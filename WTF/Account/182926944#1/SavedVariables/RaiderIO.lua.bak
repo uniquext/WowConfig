@@ -1,0 +1,39 @@
+
+RaiderIO_Config = {
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16,
+["point"] = "TOPLEFT",
+},
+["minimapIcon"] = {
+["minimapPos"] = 140.2803778494962,
+["showInCompartment"] = true,
+["hide"] = false,
+["lock"] = false,
+},
+}
+RaiderIO_LastCharacter = "cn-Nullpointer-lordaeron"
+RaiderIO_MissingCharacters = {
+["cn-大鼻子壮壮-lordaeron"] = true,
+["cn-闲来无事-lordaeron"] = true,
+["cn-四季清风-lordaeron"] = true,
+["cn-啪啪趴-chogall"] = true,
+["cn-Linainverse-lordaeron"] = true,
+["cn-丨周天丨-anzu"] = true,
+["cn-老芬达-lordaeron"] = true,
+["cn-翼大王-lordaeron"] = true,
+["cn-灬饺丨子灬-lordaeron"] = true,
+["cn-我叫信仰战-lordaeron"] = true,
+["cn-party2-lordaeron"] = true,
+["cn-Nullpointer-lordaeron"] = true,
+["cn-暴风的崛起-lordaeron"] = true,
+["cn-暮冬凛风-lordaeron"] = true,
+["cn-愤怒的小伙-lordaeron"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}

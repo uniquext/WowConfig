@@ -1,0 +1,46 @@
+
+DecursiveDB = {
+["global"] = {
+["LastVersionAnnounce"] = 1729942105,
+["delayedDebuffOccurences"] = 2,
+["delayedUnDebuffOccurences"] = 2,
+},
+["class"] = {
+["PALADIN"] = {
+["CureOrder-3"] = {
+1,
+5,
+nil,
+2,
+[64] = 7,
+[16] = 4,
+[32] = 6,
+[8] = 3,
+},
+},
+["SHAMAN"] = {
+["CureOrder-3"] = {
+1,
+5,
+nil,
+2,
+[64] = 7,
+[16] = 4,
+[32] = 6,
+[8] = 3,
+},
+},
+},
+["profileKeys"] = {
+["Nullpointer - 洛丹伦"] = "Default",
+["午后的汤圆 - 晴日峰（江苏）"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["DebuffsFrameContainer_y"] = 467.4455181701342,
+["MainBarX"] = 725.0349261971496,
+["MainBarY"] = -96.00000105798244,
+["DebuffsFrameContainer_x"] = 1035.705195256742,
+},
+},
+}

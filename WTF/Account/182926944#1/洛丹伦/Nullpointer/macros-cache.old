@@ -1,0 +1,42 @@
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [target=mouseover,help][target=target,help,exists][target=player]圣光闪现
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [target=mouseover,help][target=target,help,exists][target=player]保护祝福
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [target=mouseover,help][target=target,help,exists][target=player]圣疗术
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [target=mouseover,help][target=target,help,exists][target=player]圣光术
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [target=mouseover,help][target=target,help,exists][target=player]殉道者之光
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [target=mouseover,help][target=target,help,exists][target=player]清洁术
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [target=mouseover,help][target=target,help,exists][target=player]牺牲祝福
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [target=mouseover,help][target=target,help,exists][target=player]信仰档案
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [target=mouseover,help][target=target,help,exists][target=player]神圣震击
+END
+VER 3 0100000000000002 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000003 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Nul[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

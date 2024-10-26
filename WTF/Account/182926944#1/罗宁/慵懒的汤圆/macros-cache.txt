@@ -1,0 +1,30 @@
+VER 3 0100000000000008 " " "134400"
+#showtooltips 火焰之雨
+/cast [@cursor] 火焰之雨
+END
+VER 3 0100000000000007 " " "134400"
+#showtooltip 恶魔法阵：传送
+/cast 灵魂燃烧
+/cast 恶魔法阵：传送
+END
+VER 3 0100000000000005 "npc" "136103"
+/target 月光蓓蕾
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1LR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]慵懒的[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]奥克因
+END
+VER 3 0100000000000004 "制造灵魂之井" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 制造灵魂之井
+/i 
+END
+VER 3 0100000000000003 "宠物" "3747336"
+/cast 复活战斗宠物
+/target 月壳蟹
+END
+VER 3 0100000000000006 "捡垃圾" "136217"
+/i 求不要的  谢谢大佬~~ 好人一生平安~~~
+END
