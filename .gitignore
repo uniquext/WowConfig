@@ -1,0 +1,10 @@
+
+.curseclient
+.flavor.info
+BlizzardError.exe
+/Cache
+*.dll
+/Errors
+/Logs
+/Utils
+Wow.exe

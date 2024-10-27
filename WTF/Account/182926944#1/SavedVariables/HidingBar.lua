@@ -1,6 +1,6 @@
 
 HidingBarDB = {
-["tstmp"] = 1729946720,
+["tstmp"] = 1730014181,
 ["profiles"] = {
 {
 ["isDefault"] = true,
@@ -8,19 +8,19 @@ HidingBarDB = {
 ["addFromDataBroker"] = false,
 ["mbtnSettings"] = {
 ["LibDBIcon10_Bartender4"] = {
-["tstmp"] = 1729946720,
+["tstmp"] = 1730014181,
 },
 ["LibDBIcon10_MeetingStone"] = {
-["tstmp"] = 1729946720,
+["tstmp"] = 1730014181,
 },
 ["LibDBIcon10_WeakAuras"] = {
-["tstmp"] = 1729946720,
+["tstmp"] = 1730014181,
 },
 ["LibDBIcon10_BigWigs"] = {
-["tstmp"] = 1729946720,
+["tstmp"] = 1730014181,
 },
 ["LibDBIcon10_Decursive"] = {
-["tstmp"] = 1729943510,
+["tstmp"] = 1729953945,
 },
 },
 ["btnSettings"] = {
@@ -28,7 +28,7 @@ HidingBarDB = {
 ["tstmp"] = 1729942099,
 },
 ["HidingBar"] = {
-["tstmp"] = 1729946720,
+["tstmp"] = 1730014181,
 },
 ["BigWigs"] = {
 ["tstmp"] = 1729942099,

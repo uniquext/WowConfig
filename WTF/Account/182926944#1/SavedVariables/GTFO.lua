@@ -2,12 +2,7 @@
 GTFOData = {
 ["TrivialDamagePercent"] = 2,
 ["Active"] = true,
-["Sounds"] = {
-true,
-true,
-true,
-true,
-},
+["TestMode"] = false,
 ["IgnoreSpellList"] = {
 },
 ["SoundOverrides"] = {
@@ -16,12 +11,17 @@ true,
 "",
 "",
 },
-["TestMode"] = false,
+["Sounds"] = {
+true,
+true,
+true,
+true,
+},
 ["DataCode"] = "4",
-["SoundChannel"] = "Master",
+["EnableVibration"] = false,
 ["Volume"] = 3,
 ["IgnoreOptions"] = {
 ["EyeOfCorruption2"] = true,
 },
-["EnableVibration"] = false,
+["SoundChannel"] = "Master",
 }

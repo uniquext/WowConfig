@@ -32,3 +32,6 @@ TipTac: disabled
 TipTacItemRef: disabled
 TipTacOptions: disabled
 TipTacTalents: disabled
+Blizzard_CombatText: enabled
+LittleWigs_Classic: enabled
+LittleWigs_Cataclysm: enabled

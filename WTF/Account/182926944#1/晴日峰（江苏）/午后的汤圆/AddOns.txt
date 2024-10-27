@@ -79,3 +79,5 @@ TipTac: disabled
 TipTacItemRef: disabled
 TipTacOptions: disabled
 TipTacTalents: disabled
+Decursive: enabled
+Blizzard_CombatText: enabled

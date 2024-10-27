@@ -1,9 +1,10 @@
 
 DecursiveDB = {
-["global"] = {
-["LastVersionAnnounce"] = 1729942105,
-["delayedDebuffOccurences"] = 2,
-["delayedUnDebuffOccurences"] = 2,
+["profileKeys"] = {
+["慵懒的汤圆 - 罗宁"] = "Default",
+["午后的汤圆 - 晴日峰（江苏）"] = "Default",
+["Nullpointer - 洛丹伦"] = "Default",
+["卖萌的汤圆 - 洛丹伦"] = "Default",
 },
 ["class"] = {
 ["SHAMAN"] = {
@@ -43,17 +44,17 @@ nil,
 },
 },
 },
-["profileKeys"] = {
-["慵懒的汤圆 - 罗宁"] = "Default",
-["午后的汤圆 - 晴日峰（江苏）"] = "Default",
-["Nullpointer - 洛丹伦"] = "Default",
+["global"] = {
+["LastVersionAnnounce"] = 1729955125,
+["delayedDebuffOccurences"] = 42,
+["delayedUnDebuffOccurences"] = 46,
 },
 ["profiles"] = {
 ["Default"] = {
-["DebuffsFrameContainer_y"] = 467.4455181701342,
+["DebuffsFrameContainer_y"] = 322.4544374049583,
 ["MainBarX"] = 725.0349261971496,
 ["MainBarY"] = -96.00000105798244,
-["DebuffsFrameContainer_x"] = 1035.705195256742,
+["DebuffsFrameContainer_x"] = 976.8028171575861,
 },
 },
 }

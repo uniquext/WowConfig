@@ -9,6 +9,7 @@ MEETINGSTONE_CHARACTER_DB = {
 "6-0-17-0",
 },
 ["lastSearchCode"] = "6-0-17-0",
+["version"] = "20241024",
 ["settings"] = {
 ["AUTO_INVITE_JOIN"] = true,
 ["storage"] = {
@@ -17,7 +18,6 @@ MEETINGSTONE_CHARACTER_DB = {
 ["scale"] = 1,
 },
 },
-["version"] = "20241024",
 ["searchHistoryList"] = {
 "6-0-17-0",
 "6-0-0-0",

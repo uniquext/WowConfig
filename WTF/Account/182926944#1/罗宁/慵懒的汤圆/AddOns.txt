@@ -80,3 +80,4 @@ TipTacItemRef: disabled
 TipTacOptions: disabled
 TipTacTalents: disabled
 Decursive: disabled
+Blizzard_CombatText: enabled

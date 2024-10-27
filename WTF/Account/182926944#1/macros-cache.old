@@ -1,10 +1,10 @@
-VER 3 0000000000000007 " " "134400"
-#showtooltips 袋里乾坤
-/cast [@player] 袋里乾坤
-END
 VER 3 0000000000000008 " " "134400"
 #showtooltips 
 /cast 分解
+END
+VER 3 0000000000000007 " " "134400"
+#showtooltips 袋里乾坤
+/cast [@player] 袋里乾坤
 END
 VER 3 0000000000000001 "ADD" "134331"
 /y ADD ADD ADD

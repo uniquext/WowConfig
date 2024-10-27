@@ -1,10 +1,10 @@
-VER 3 0000000000000008 " " "134400"
-#showtooltips 
-/cast 分解
-END
 VER 3 0000000000000007 " " "134400"
 #showtooltips 袋里乾坤
 /cast [@player] 袋里乾坤
+END
+VER 3 0000000000000008 " " "134400"
+#showtooltips 
+/cast 分解
 END
 VER 3 0000000000000001 "ADD" "134331"
 /y ADD ADD ADD
@@ -13,7 +13,7 @@ VER 3 0000000000000001 "ADD" "134331"
 END
 VER 3 0000000000000002 "Decursive" "INV_MISC_QUESTIONMARK"
 /stopcasting
-/cast [@mouseover,nomod,exists] 恐惧;  [@mouseover,exists,mod:ctrl] 恐惧; [@mouseover,exists,mod:shift] 恐惧
+/cast [@mouseover,nomod,exists] 净化灵魂;  [@mouseover,exists,mod:ctrl] 清毒图腾; [@mouseover,exists,mod:shift] 净化灵魂
 END
 VER 3 0000000000000003 "坐" "134400"
 /下跪
