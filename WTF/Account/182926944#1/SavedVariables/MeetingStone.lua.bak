@@ -18,12 +18,20 @@ MEETINGSTONE_UI_DB = {
 ["global"] = {
 ["version"] = "20241024",
 ["ActivityProfiles"] = {
-["格瑞姆巴托（史诗钥石）"] = {
-["ItemLevel"] = 590,
-["HonorLevel"] = 0,
-},
 ["自定义PvP"] = {
 ["ItemLevel"] = 0,
+["HonorLevel"] = 0,
+},
+["千丝之城（史诗钥石）"] = {
+["ItemLevel"] = 610,
+["HonorLevel"] = 0,
+},
+["格瑞姆巴托（史诗钥石）"] = {
+["ItemLevel"] = 610,
+["HonorLevel"] = 0,
+},
+["通灵战潮（史诗钥石）"] = {
+["ItemLevel"] = 610,
 ["HonorLevel"] = 0,
 },
 },
@@ -62,8 +70,8 @@ MEETINGSTONE_UI_DB = {
 ["FILTER_DAMAGE"] = false,
 }
 MEETINGSTONE_UI_E_POINTS = {
-["y"] = 139.4953765869141,
-["x"] = 244.37890625,
+["y"] = 175.2252960205078,
+["x"] = -288.0825500488281,
 ["a1"] = "CENTER",
 ["a2"] = "CENTER",
 }

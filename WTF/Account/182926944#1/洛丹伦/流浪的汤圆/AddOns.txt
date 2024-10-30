@@ -94,3 +94,6 @@ TipTac: disabled
 TipTacItemRef: disabled
 TipTacOptions: disabled
 TipTacTalents: disabled
+AngryKeystones: disabled
+DejaCharacterStats: disabled
+BasicMinimap_Options: enabled

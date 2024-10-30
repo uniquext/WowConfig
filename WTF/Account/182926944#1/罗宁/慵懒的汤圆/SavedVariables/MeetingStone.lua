@@ -8,20 +8,6 @@ MEETINGSTONE_CHARACTER_DB = {
 ["createHistoryList"] = {
 "6-0-17-0",
 },
-["lastSearchCode"] = "6-0-17-0",
-["version"] = "20241024",
-["settings"] = {
-["AUTO_INVITE_JOIN"] = true,
-["storage"] = {
-["y"] = 0,
-["x"] = -413.9995574951172,
-["scale"] = 1,
-},
-},
-["searchHistoryList"] = {
-"6-0-17-0",
-"6-0-0-0",
-},
 ["recent"] = {
 ["6-0-17-0"] = {
 {
@@ -990,6 +976,20 @@ MEETINGSTONE_CHARACTER_DB = {
 ["class"] = 1,
 },
 },
+},
+["settings"] = {
+["AUTO_INVITE_JOIN"] = true,
+["storage"] = {
+["y"] = 0,
+["x"] = -413.9995574951172,
+["scale"] = 1,
+},
+},
+["version"] = "20241024",
+["lastSearchCode"] = "6-0-17-0",
+["searchHistoryList"] = {
+"6-0-17-0",
+"6-0-0-0",
 },
 },
 },

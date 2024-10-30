@@ -1,26 +1,50 @@
 
 HidingBarDB = {
-["tstmp"] = 1730014181,
+["tstmp"] = 1730301747,
 ["profiles"] = {
 {
 ["isDefault"] = true,
 ["config"] = {
 ["addFromDataBroker"] = false,
 ["mbtnSettings"] = {
-["LibDBIcon10_Bartender4"] = {
-["tstmp"] = 1730014181,
+["LibDBIcon10_Details"] = {
+["tstmp"] = 1730301747,
 },
 ["LibDBIcon10_MeetingStone"] = {
-["tstmp"] = 1730014181,
-},
-["LibDBIcon10_WeakAuras"] = {
-["tstmp"] = 1730014181,
-},
-["LibDBIcon10_BigWigs"] = {
-["tstmp"] = 1730014181,
+["tstmp"] = 1730301747,
 },
 ["LibDBIcon10_Decursive"] = {
-["tstmp"] = 1729953945,
+["tstmp"] = 1730301747,
+},
+["LibDBIcon10_Masque"] = {
+["tstmp"] = 1730301747,
+},
+["LibDBIcon10_AutoLooter"] = {
+["tstmp"] = 1730301747,
+},
+["LibDBIcon10_BigWigs"] = {
+["tstmp"] = 1730301747,
+},
+["LibDBIcon10_MythicDungeonTools"] = {
+["tstmp"] = 1730301747,
+},
+["LibDBIcon10_Bartender4"] = {
+["tstmp"] = 1730301747,
+},
+["LibDBIcon10_DetailsStreamer"] = {
+["tstmp"] = 1730301747,
+},
+["LibDBIcon10_WeakAuras"] = {
+["tstmp"] = 1730301747,
+},
+["LibDBIcon10_Plater"] = {
+["tstmp"] = 1730301747,
+},
+["LibDBIcon10_Myslot"] = {
+["tstmp"] = 1730301747,
+},
+["LibDBIcon10_TipTac"] = {
+["tstmp"] = 1730301747,
 },
 },
 ["btnSettings"] = {
@@ -28,7 +52,7 @@ HidingBarDB = {
 ["tstmp"] = 1729942099,
 },
 ["HidingBar"] = {
-["tstmp"] = 1730014181,
+["tstmp"] = 1730301747,
 },
 ["BigWigs"] = {
 ["tstmp"] = 1729942099,

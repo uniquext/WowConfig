@@ -1,0 +1,7 @@
+## Title: AutoSellMyJunk
+## Version: 1.4
+## Author: Ryura13
+## Interface: 100005
+## Notes: Autosells greys and Autorepairs gear
+AutoSellMyJunk.xml
+AutoSellMyJunk.lua

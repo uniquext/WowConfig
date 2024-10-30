@@ -35,3 +35,8 @@ TipTacTalents: disabled
 Blizzard_CombatText: enabled
 LittleWigs_Classic: enabled
 LittleWigs_Cataclysm: enabled
+LittleWigs: enabled
+AngryKeystones: disabled
+DejaCharacterStats: disabled
+BigWigs_KhazAlgar: enabled
+BasicMinimap_Options: enabled

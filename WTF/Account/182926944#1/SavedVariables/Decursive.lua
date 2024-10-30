@@ -7,7 +7,7 @@ DecursiveDB = {
 ["卖萌的汤圆 - 洛丹伦"] = "Default",
 },
 ["class"] = {
-["SHAMAN"] = {
+["PALADIN"] = {
 ["CureOrder-3"] = {
 1,
 5,
@@ -31,7 +31,7 @@ nil,
 [8] = 3,
 },
 },
-["PALADIN"] = {
+["SHAMAN"] = {
 ["CureOrder-3"] = {
 1,
 5,
@@ -45,16 +45,16 @@ nil,
 },
 },
 ["global"] = {
-["LastVersionAnnounce"] = 1729955125,
-["delayedDebuffOccurences"] = 42,
+["LastVersionAnnounce"] = 1730300162,
+["delayedDebuffOccurences"] = 45,
 ["delayedUnDebuffOccurences"] = 46,
 },
 ["profiles"] = {
 ["Default"] = {
-["DebuffsFrameContainer_y"] = 322.4544374049583,
+["DebuffsFrameContainer_y"] = 466.9076067513015,
 ["MainBarX"] = 725.0349261971496,
 ["MainBarY"] = -96.00000105798244,
-["DebuffsFrameContainer_x"] = 976.8028171575861,
+["DebuffsFrameContainer_x"] = 971.2256032914156,
 },
 },
 }

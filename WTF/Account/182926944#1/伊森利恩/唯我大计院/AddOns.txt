@@ -80,3 +80,6 @@ TipTacItemRef: disabled
 TipTacOptions: disabled
 TipTacTalents: disabled
 Blizzard_CombatText: enabled
+AngryKeystones: disabled
+DejaCharacterStats: disabled
+BasicMinimap_Options: enabled

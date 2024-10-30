@@ -14,18 +14,21 @@ BasicMinimapSV = {
 ["y"] = -21,
 ["outline"] = "THICKOUTLINE",
 },
-["coordsConfig"] = {
-["fontSize"] = 16,
-["monochrome"] = true,
-["y"] = 18,
+["blizzButtonLocation"] = {
+["mail"] = 140,
 },
-["clockConfig"] = {
+["coordsConfig"] = {
 ["fontSize"] = 16,
 ["monochrome"] = true,
 ["y"] = 18,
 },
 ["borderSize"] = 2,
 ["lock"] = true,
+["clockConfig"] = {
+["fontSize"] = 16,
+["monochrome"] = true,
+["y"] = 18,
+},
 ["position"] = {
 "TOPRIGHT",
 "TOPRIGHT",

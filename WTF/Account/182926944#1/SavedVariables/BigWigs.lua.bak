@@ -5,45 +5,35 @@ BigWigs3DB = {
 },
 ["BigWigs_Plugins_BossBlock"] = {
 },
-["BigWigs_Bosses_Theka the Martyr"] = {
-},
 ["BigWigs_Plugins_Sounds"] = {
-},
-["BigWigs_Bosses_Chief Ukorz Sandscalp"] = {
-},
-["BigWigs_Bosses_Nekrum & Sezz'ziz"] = {
 },
 ["BigWigs_Plugins_AutoReply"] = {
 },
-["BigWigs_Plugins_Nameplates"] = {
+["BigWigs_Plugins_Countdown"] = {
 },
 ["BigWigs_Plugins_AltPower"] = {
-},
-["BigWigs_Plugins_Countdown"] = {
 },
 ["BigWigs_Plugins_Colors"] = {
 },
 ["BigWigs_Plugins_Wipe"] = {
 },
-["BigWigs_Plugins_InfoBox"] = {
+["BigWigs_Plugins_Nameplates"] = {
 },
 ["BigWigs_Plugins_Bars"] = {
 },
-["BigWigs_Plugins_Proximity"] = {
-},
-["BigWigs_Bosses_Antu'sul"] = {
-},
-["BigWigs_Bosses_Witch Doctor Zum'rah"] = {
-},
-["LibDualSpec-1.0"] = {
-},
 ["BigWigs_Plugins_Statistics"] = {
 },
+["BigWigs_Plugins_InfoBox"] = {
+},
 ["BigWigs_Plugins_Messages"] = {
+},
+["BigWigs_Plugins_Proximity"] = {
 },
 ["BigWigs_Plugins_Raid Icons"] = {
 },
 ["BigWigs_Plugins_Pull"] = {
+},
+["LibDualSpec-1.0"] = {
 },
 },
 ["profileKeys"] = {

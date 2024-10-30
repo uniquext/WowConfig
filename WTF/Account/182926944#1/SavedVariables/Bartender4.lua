@@ -23,21 +23,21 @@ Bartender4DB = {
 },
 ["Nullpointer - 洛丹伦"] = {
 ["enabled"] = true,
-["version"] = 3,
 ["position"] = {
 ["y"] = 3.99993896484375,
 ["x"] = -289.5000610351563,
 ["point"] = "TOP",
 },
+["version"] = 3,
 },
 ["001"] = {
 ["enabled"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 3.99993896484375,
 ["x"] = -289.5000610351563,
 ["point"] = "TOP",
 },
-["version"] = 3,
 },
 },
 },
@@ -58,20 +58,20 @@ Bartender4DB = {
 },
 },
 ["Nullpointer - 洛丹伦"] = {
-["version"] = 3,
 ["position"] = {
 ["y"] = -202.1343383789063,
 ["x"] = -286.6121826171875,
 ["point"] = "TOPRIGHT",
 },
+["version"] = 3,
 },
 ["001"] = {
+["version"] = 3,
 ["position"] = {
 ["y"] = -202.1343383789063,
 ["x"] = -286.6121826171875,
 ["point"] = "TOPRIGHT",
 },
-["version"] = 3,
 },
 },
 },
@@ -253,26 +253,27 @@ Bartender4DB = {
 ["actionbars"] = {
 {
 ["version"] = 3,
-["padding"] = 0,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 30.72000175476069,
 ["x"] = -175.3599570178994,
 ["point"] = "BOTTOM",
 ["scale"] = 0.6399999856948853,
 },
+["padding"] = 0,
+["WoW10Layout"] = true,
 },
 {
 ["enabled"] = false,
 ["version"] = 3,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -198.0000305175781,
 ["x"] = -284.5000915527344,
 ["point"] = "CENTER",
 },
+["WoW10Layout"] = true,
 },
 {
+["rows"] = 3,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 88.32000779151895,
@@ -280,11 +281,11 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 0.6399999856948853,
 },
-["rows"] = 3,
-["WoW10Layout"] = true,
 ["padding"] = 0,
+["WoW10Layout"] = true,
 },
 {
+["rows"] = 3,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 88.32000779151895,
@@ -292,31 +293,30 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 0.6399999856948853,
 },
-["rows"] = 3,
-["WoW10Layout"] = true,
 ["padding"] = 0,
+["WoW10Layout"] = true,
 },
 {
 ["version"] = 3,
-["padding"] = 0,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 86.38850392844142,
 ["x"] = -175.3599570178994,
 ["point"] = "BOTTOM",
 ["scale"] = 0.6399999856948853,
 },
+["padding"] = 0,
+["WoW10Layout"] = true,
 },
 {
 ["version"] = 3,
-["padding"] = 0,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 59.51999866962433,
 ["x"] = -175.3600156116481,
 ["point"] = "BOTTOM",
 ["scale"] = 0.6399999856948853,
 },
+["padding"] = 0,
+["WoW10Layout"] = true,
 },
 {
 ["WoW10Layout"] = true,
@@ -344,6 +344,8 @@ Bartender4DB = {
 ["001"] = {
 ["actionbars"] = {
 {
+["WoW10Layout"] = true,
+["padding"] = 0,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 30.72000175476069,
@@ -351,21 +353,18 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 0.6399999856948853,
 },
-["padding"] = 0,
-["WoW10Layout"] = true,
 },
 {
 ["enabled"] = false,
+["WoW10Layout"] = true,
 ["version"] = 3,
 ["position"] = {
 ["y"] = -198.0000305175781,
 ["x"] = -284.5000915527344,
 ["point"] = "CENTER",
 },
-["WoW10Layout"] = true,
 },
 {
-["rows"] = 3,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 88.32000779151895,
@@ -373,11 +372,11 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 0.6399999856948853,
 },
-["padding"] = 0,
+["rows"] = 3,
 ["WoW10Layout"] = true,
+["padding"] = 0,
 },
 {
-["rows"] = 3,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 88.32000779151895,
@@ -385,10 +384,13 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 0.6399999856948853,
 },
-["padding"] = 0,
+["rows"] = 3,
 ["WoW10Layout"] = true,
+["padding"] = 0,
 },
 {
+["WoW10Layout"] = true,
+["padding"] = 0,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 86.38850392844142,
@@ -396,10 +398,10 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 0.6399999856948853,
 },
-["padding"] = 0,
-["WoW10Layout"] = true,
 },
 {
+["WoW10Layout"] = true,
+["padding"] = 0,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 59.51999866962433,
@@ -407,8 +409,6 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 0.6399999856948853,
 },
-["padding"] = 0,
-["WoW10Layout"] = true,
 },
 {
 ["WoW10Layout"] = true,
@@ -458,17 +458,16 @@ Bartender4DB = {
 ["Nullpointer - 洛丹伦"] = {
 ["enabled"] = false,
 ["hideArtwork"] = true,
-["version"] = 3,
 ["position"] = {
 ["y"] = 98.4000136733057,
 ["x"] = 365.2370802944461,
 ["point"] = "BOTTOM",
 ["scale"] = 0.800000011920929,
 },
+["version"] = 3,
 },
 ["001"] = {
 ["enabled"] = false,
-["hideArtwork"] = true,
 ["position"] = {
 ["y"] = 98.4000136733057,
 ["x"] = 365.2370802944461,
@@ -476,6 +475,7 @@ Bartender4DB = {
 ["scale"] = 0.800000011920929,
 },
 ["version"] = 3,
+["hideArtwork"] = true,
 },
 },
 },
@@ -498,22 +498,22 @@ Bartender4DB = {
 },
 },
 ["Nullpointer - 洛丹伦"] = {
-["version"] = 3,
 ["position"] = {
 ["y"] = -198.6791862328537,
 ["x"] = -205.5600490617799,
 ["point"] = "TOPRIGHT",
 ["scale"] = 0.7200000286102295,
 },
+["version"] = 3,
 },
 ["001"] = {
+["version"] = 3,
 ["position"] = {
 ["y"] = -198.6791862328537,
 ["x"] = -205.5600490617799,
 ["point"] = "TOPRIGHT",
 ["scale"] = 0.7200000286102295,
 },
-["version"] = 3,
 },
 },
 },
@@ -538,24 +538,24 @@ Bartender4DB = {
 ["Nullpointer - 洛丹伦"] = {
 ["enabled"] = false,
 ["onebagreagents"] = false,
+["onebag"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 80,
 ["x"] = -212,
 ["point"] = "BOTTOMRIGHT",
 },
-["onebag"] = true,
-["version"] = 3,
 },
 ["001"] = {
 ["enabled"] = false,
 ["onebagreagents"] = false,
-["onebag"] = true,
-["version"] = 3,
 ["position"] = {
 ["y"] = 80,
 ["x"] = -212,
 ["point"] = "BOTTOMRIGHT",
 },
+["onebag"] = true,
+["version"] = 3,
 },
 },
 },
@@ -583,21 +583,21 @@ Bartender4DB = {
 },
 ["Nullpointer - 洛丹伦"] = {
 ["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
 },
 ["001"] = {
-["artLayout"] = "MODERN",
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
 ["version"] = 3,
+["artLayout"] = "MODERN",
 },
 },
 },
@@ -620,8 +620,8 @@ Bartender4DB = {
 },
 },
 ["Nullpointer - 洛丹伦"] = {
-["padding"] = 0,
 ["version"] = 3,
+["padding"] = 0,
 ["position"] = {
 ["y"] = 107.3285321077528,
 ["x"] = -175.3299205894145,
@@ -630,8 +630,8 @@ Bartender4DB = {
 },
 },
 ["001"] = {
-["version"] = 3,
 ["padding"] = 0,
+["version"] = 3,
 ["position"] = {
 ["y"] = 107.3285321077528,
 ["x"] = -175.3299205894145,
@@ -660,7 +660,6 @@ Bartender4DB = {
 },
 },
 ["Nullpointer - 洛丹伦"] = {
-["padding"] = 0,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 107.3285321077528,
@@ -668,8 +667,10 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 0.699999988079071,
 },
+["padding"] = 0,
 },
 ["001"] = {
+["padding"] = 0,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 107.3285321077528,
@@ -677,7 +678,6 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 0.699999988079071,
 },
-["padding"] = 0,
 },
 },
 },
@@ -700,20 +700,20 @@ Bartender4DB = {
 },
 },
 ["Nullpointer - 洛丹伦"] = {
-["version"] = 3,
 ["position"] = {
 ["y"] = 131.0285186767578,
 ["x"] = -177.4924621582031,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
 },
 ["001"] = {
+["version"] = 3,
 ["position"] = {
 ["y"] = 131.0285186767578,
 ["x"] = -177.4924621582031,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
 },
 },
 },
@@ -731,8 +731,8 @@ Bartender4DB = {
 ["outofrange"] = "hotkey",
 },
 ["Nullpointer - 洛丹伦"] = {
-["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
 ["minimapIcon"] = {
 ["minimapPos"] = 213.9297230410407,
 },
@@ -746,8 +746,8 @@ Bartender4DB = {
 ["outofrange"] = "hotkey",
 },
 ["001"] = {
-["blizzardVehicle"] = true,
 ["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
 ["minimapIcon"] = {
 ["minimapPos"] = 213.9297230410407,
 },
